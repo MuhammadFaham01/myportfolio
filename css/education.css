@@ -1,0 +1,67 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.education-section {
+    background-color: #fff;
+    padding: 60px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.education-card {
+    margin-bottom: 30px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.education-card-header {
+    
+    background: linear-gradient(to right, #854fee, #6a4cfc, #9b59b6);
+    color: white;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.education-card-body {
+    padding: 25px;
+    background-color: #f9f9f9;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+}
+.education-card-body h5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 500;
+    color: #333;
+}
+.education-card-body p {
+    font-size: 1rem;
+    color: #555;
+}
+.education-card-footer {
+    background-color: #f8f9fa;
+    padding: 12px;
+    text-align: right;
+    font-size: 0.9rem;
+    color: #777;
+}
+.education-card-footer span {
+    font-weight: 500;
+}
+.education-card-footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+.education-card-footer a:hover {
+    text-decoration: underline;
+}
