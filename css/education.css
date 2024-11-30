@@ -5,9 +5,7 @@ body {
     padding: 0;
 }
 .education-section {
-    background-color: #fff;
-    padding: 60px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 60px 15px 0 15px;
 }
 h2 {
     font-family: 'Poppins', sans-serif;

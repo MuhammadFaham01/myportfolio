@@ -391,12 +391,13 @@ button:focus {
             font-size: 60px; } }
         @media (max-width: 767px) {
           .home_banner_area .banner_inner .banner_content h1 {
-            font-size: 50px; } }
+            font-size: 40px; } }
       .home_banner_area .banner_inner .banner_content h5 {
         font-size: 24px;
         margin-bottom: 35px; }
       .home_banner_area .banner_inner .banner_content .primary_btn {
         margin-right: 20px; }
+        
 
 .banner_area {
   position: relative;
@@ -453,7 +454,8 @@ button:focus {
           -moz-transform: translateY(-50%);
           -ms-transform: translateY(-50%);
           -o-transform: translateY(-50%);
-          transform: translateY(-50%); }
+          transform: translateY(-50%);
+         }
         .banner_area .banner_inner .banner_content .page_link a:last-child {
           margin-right: 0px; }
           .banner_area .banner_inner .banner_content .page_link a:last-child:before {
